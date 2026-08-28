@@ -26,6 +26,21 @@
         {"source":"CNBC / 중동", "title":"[번역] 국제유가, 이란 제재 완화 기대에 하락", "summary":"미국의 대이란 제재를 둘러싼 외교적 진전 기대감이 커지며 국제유가가 최근 고점에서 하락하는 흐름을 보이고 있다.", "url":"https://www.cnbc.com/2026/08/24/oil-price-today-wti-brent-us-sanctions-iran.html"},
         {"source":"헤럴드경제 / 한국·글로벌", "title":"HBM 슈퍼사이클의 역설…가격 급등에 빅테크 '메모리 다이어트'", "summary":"HBM 계약가격이 내년 최대 140%까지 오를 수 있다는 전망이 나오는 가운데, 빅테크 기업들이 AI 가속기에 탑재하는 HBM 용량을 줄이려는 움직임을 보이고 있다.", "url":"https://biz.heraldcorp.com/article/10852829"}
       ]
+    },
+    "2026-08-29": {
+      "summary": "케빈 워시 신임 연준 의장이 첫 잭슨홀 연설에서 인플레이션이 여전히 높다며 매파적 신호를 내놓아 9월 금리 인상 기대가 커졌다. 국제 금값은 온스당 4,650달러 선을 지켰고, 코스피는 반도체주 차익실현 매물에 6,800선 아래로 밀렸다.",
+      "report": "⚡ 오늘자 글로벌 경제 핵심 Top 3\n\n1. 워시 연준 의장, 첫 잭슨홀 연설서 매파적 경고\n결론: 케빈 워시 연준 의장이 취임 후 첫 잭슨홀 연설에서 인플레이션이 여전히 너무 높다며 향후 몇 달 내 금리 인상이 필요할 수 있다고 밝혔다.\n배경: 여름 물가지표가 예상보다 양호했지만 근원 물가 추세가 의미 있게 개선됐다고 보기는 이르다고 평가했고, '조용한 연준'을 강조하며 구체적 forward guidance는 거부했다.\n향후영향: 채권시장에서 9월 금리 인상 기대가 확산되며 일부 대형은행이 인상 시점 전망을 앞당겼고, 국채금리·달러 변동성이 커질 전망이다.\n\n2. 코스피, 반도체주 급락에 6,800선 붕괴\n결론: 코스피가 전일 대비 1.79% 내린 6,788.88에 마감했고, 외국인이 1조7,586억원을 순매도했다.\n배경: 밤사이 미국 필라델피아반도체지수가 2.33%, 엔비디아가 8.74% 급등했음에도 삼성전자(-3.38%)·SK하이닉스(-4.45%) 등 반도체 대장주가 차익실현 매물에 약세를 보였고, 금리 경계감도 투자심리를 눌렀다.\n향후영향: 워시 의장 발언의 파장이 다음 거래일 원/달러 환율과 증시 방향성을 좌우할 것으로 보인다.\n\n3. 국제 금값 4,650달러 선 유지, 8월 한 달간 13%대 급등\n결론: 12월물 금 선물이 온스당 4,656달러에 거래되며 이달 들어 13% 넘게 올라 올해 1월 이후 최대 월간 상승폭을 기록했다.\n배경: 달러 가치 훼손 우려와 미 재무부의 장기채 지지 조치, 워시 의장 연설을 앞둔 안전자산 선호가 겹쳤다.\n향후영향: 매파적 발언에 국채금리·달러가 강세로 돌아서면 금값 상승 탄력이 약해질 수 있다.\n\n🌍 주요 지역 및 시장별 브리핑\n- 미국/북미: 워시 의장의 잭슨홀 연설 이후 뉴욕 증시는 비교적 안정적이었으나 채권시장은 9월 인상 가능성을 반영하며 출렁였다.\n- 유럽/중동: 브렌트유는 배럴당 88~90달러대에서 거래되며, 호르무즈 해협 통행량이 회복되면서 상승폭이 제한됐다. UAE는 9월 휘발유·경유 가격을 발표했다.\n- 한국: 코스피가 6,788.88(-1.79%)로 마감했고, 원/달러 환율은 워시 발언을 주시하며 1,380원대에서 움직였다. 신현송 한국은행 총재는 금통위 직후 잭슨홀로 이동해 참석했다.\n- 일본/중국: 중국 8월 제조업 PMI가 49.6으로 두 달 연속 위축 국면이 예상되는 가운데, 1~7월 소매판매는 전년 대비 2.6% 늘었다. 엔/달러 환율은 미 통화정책을 관망하며 159엔대에서 보합세를 보였다.\n\n💡 So What? (시장 파급력 및 인사이트)\n- 워시 의장의 매파적 신호로 9월 FOMC 결과가 원/달러 환율과 글로벌 국채금리의 핵심 변수로 떠올랐다.\n- 반도체 슈퍼사이클 기대와 국내 증시의 단기 차익실현이 엇갈리며 변동성이 커지고 있어 다음 주 외국인 수급 흐름을 주시할 필요가 있다.\n- 안전자산(금) 강세와 위험자산(반도체주) 조정이 동시에 나타나는 국면이 이어지며 연준 신뢰도에 대한 시장의 불안심리가 여전함을 보여준다.",
+      "items": [
+        {"source":"CNBC / 미국", "title":"[번역] 워시 의장, 잭슨홀서 인플레이션 여전히 높다 경고", "summary":"케빈 워시 연준 의장이 첫 잭슨홀 연설에서 인플레이션이 여전히 높다며 향후 금리 인상이 필요할 수 있다고 밝혔다.", "url":"https://www.cnbc.com/2026/08/28/kevin-warsh-jackson-hole-federal-reserve-inflation.html"},
+        {"source":"Washington Post / 미국", "title":"[번역] 워시 의장 \"연준, 할 일 더 남았다\"", "summary":"워시 의장은 인플레이션에 대한 우려를 표하며 연준이 물가 안정을 위해 아직 할 일이 더 남아있다고 말했다.", "url":"https://www.washingtonpost.com/business/2026/08/28/fed-chair-warsh-speaks-jackson-hole-conference/"},
+        {"source":"한국경제 / 한국", "title":"코스피, 반도체주 약세에 6,800선 내줘…외국인 1.7조 순매도", "summary":"코스피가 삼성전자·SK하이닉스 등 반도체 대형주 약세로 1.79% 하락해 6,788.88에 마감했고, 외국인이 1조7,500억원 넘게 순매도했다.", "url":"https://www.hankyung.com/article/2026082897216"},
+        {"source":"서울신문 / 한국", "title":"코스피, 장초반 약세 이어 6,840선 하회…외국인·기관 동반 순매도", "summary":"코스피가 금리 경계감 속 외국인과 기관의 동반 매도세로 장중 약세를 이어갔다.", "url":"https://www.seoul.co.kr/news/economy/securities/2026/08/28/20260828500040"},
+        {"source":"Bloomberg / 미국", "title":"[번역] 금값, 워시 의장 잭슨홀 연설 앞두고 4,600달러 선 유지", "summary":"국제 금값이 워시 의장의 금리 경로 발언을 주시하며 온스당 4,600달러 부근에서 보합세를 보였다.", "url":"https://www.bloomberg.com/news/articles/2026-08-27/gold-holds-near-4-600-as-investors-focus-on-fed-rate-hike-path"},
+        {"source":"Kitco News / 미국", "title":"[번역] 금값, 워시 의장 잭슨홀 발언 앞두고 소폭 상승", "summary":"금값이 이달 들어 13% 넘게 급등하며 올해 최대 월간 상승폭을 기록한 가운데, 워시 의장의 발언을 앞두고 소폭 올랐다.", "url":"https://www.kitco.com/news/off-the-wire/2026-08-28/gold-inches-ahead-fed-chair-warshs-jackson-hole-remarks"},
+        {"source":"The Japan Times / 중동", "title":"[번역] 호르무즈 해협 원유 통행량 회복, 걸프 산유국 수출 확대", "summary":"걸프 산유국들의 수출 확대로 호르무즈 해협을 통한 원유 통행량이 늘면서 국제유가 상승폭이 제한되고 있다.", "url":"https://www.japantimes.co.jp/news/2026/08/28/world/strait-hormuz-oil-rising/"},
+        {"source":"Reuters(Investing.com) / 중국", "title":"[번역] 중국 8월 제조업 PMI, 두 달 연속 위축 전망", "summary":"로이터 설문조사 결과 중국의 8월 공식 제조업 PMI가 49.6으로 전월보다 소폭 오르지만 두 달 연속 기준선 50 아래에 머물 것으로 전망됐다.", "url":"https://www.investing.com/news/economic-indicators/chinas-factory-activity-seen-contracting-again-in-august-reuters-poll-4880554"},
+        {"source":"뉴시스 / 일본", "title":"엔화, 美 통화정책 관망에 159엔대 보합 출발", "summary":"엔/달러 환율이 연준의 향후 통화정책 방향을 관망하며 1달러당 159엔대 초반에서 보합권 움직임을 보였다.", "url":"https://www.newsis.com/view/NISX20260828_0003766588"}
+      ]
     }
   },
   "worldNews": {
@@ -53,6 +68,21 @@
         {"source":"WSLS(AP) / 우크라이나·러시아", "title":"[번역] 러시아, 우크라이나 9개 도시에 '대규모' 야간 공습", "summary":"러시아가 탄도미사일과 드론을 동원해 우크라이나 9개 도시를 겨냥한 야간 공습을 감행했으며, 오데사와 자포리자 등 남부 지역에서도 폭발이 보고됐다.", "url":"https://www.wsls.com/news/world/2026/08/27/russia-says-it-launched-a-massive-overnight-strike-on-9-ukrainian-cities/"},
         {"source":"The Local fr / 영국·프랑스", "title":"[번역] 영국 신임 총리 버넘, 마크롱 런던 초청…브렉시트 이후 첫 EU 정상 방한", "summary":"지난달 취임한 영국 앤디 버넘 총리가 마크롱 프랑스 대통령을 런던으로 초청했으며, 이는 버넘 취임 후 첫 EU 정상의 영국 방문이 된다.", "url":"https://www.thelocal.fr/20260827/british-pm-burnham-to-host-macron-in-london-uk-govt-source"},
         {"source":"경향신문 / 한국·미국·북한", "title":"이재명 대통령 \"북·미 신뢰 구축의 페이스메이커 되겠다\"", "summary":"이재명 대통령이 트럼프 대통령의 북미정상회담 개최 의지 표명에 대해 남북관계 당사자이자 페이스메이커로서 대화 재개를 지원하겠다고 밝혔다.", "url":"https://www.khan.co.kr/article/202608271113001/"}
+      ]
+    },
+    "2026-08-29": {
+      "summary": "히말라야 국경을 덮친 대홍수 사망자가 500명을 넘어서며 실종자 수색이 이어지는 가운데, 콩고 에볼라 확산과 러시아의 대규모 드론 공습, 한·미·일 3국 훈련을 둘러싼 북한의 반발 등 세계 곳곳의 위기가 동시에 심화되고 있다.",
+      "items": [
+        {"source":"Al Jazeera / 네팔·티베트", "title":"[번역] 네팔·티베트 홍수 사망자 470명 넘어…둑호 붕괴 위험 고조", "summary":"네팔·티베트 국경 대홍수 사망자가 470명을 넘어섰고, 상류의 둑호(barrier lake)가 터질 위험이 커지며 추가 경보가 발령됐다.", "url":"https://www.aljazeera.com/news/2026/8/28/death-toll-from-nepal-tibet-flood-passes-470-as-barrier-lake-threatens"},
+        {"source":"NPR / 미국·네팔", "title":"[번역] 네팔·티베트 홍수 사망 500명 넘어…미국인 90명 실종", "summary":"네팔·티베트 홍수로 인한 사망자가 500명을 넘었으며, 실종자 중 미국인이 90명 포함된 것으로 파악됐다.", "url":"https://www.npr.org/2026/08/27/nx-s1-5946309/nepal-tibet-deadly-floods"},
+        {"source":"MBC / 한국·네팔", "title":"네팔 홍수 인명피해 급증…한국인 9명 연락두절", "summary":"네팔 수력발전소 건설 현장에서 근무하던 한국인 근로자 9명이 홍수로 연락이 끊겼으며, 현지 인명피해가 계속 늘고 있다.", "url":"https://imnews.imbc.com/replay/2026/nwtoday/article/6847912_37012.html"},
+        {"source":"Washington Post / 콩고", "title":"[번역] 콩고 에볼라, 2개 보건구역 추가 확산…60개 지역으로", "summary":"역사상 가장 빠르게 확산 중인 콩고 에볼라 발병이 북키부의 비에나·망구레지파 지역으로 번지며 총 60개 보건구역으로 확대됐고, 누적 사망자는 2,786명에 달한다.", "url":"https://www.washingtonpost.com/world/2026/08/28/ebola-outbreak-congo/fe8d43ae-a2c8-11f1-8606-1d40ad00172e_story.html"},
+        {"source":"NPR / 한국·미국·일본", "title":"[번역] 한·미·일 '프리덤 엣지' 훈련 강행…북, 강력 대응 예고", "summary":"북한이 미국의 대북 적대행위를 이유로 강력 대응을 예고한 다음 날, 한·미·일 3국은 9월 제주 인근 해상에서 5일간 '프리덤 엣지' 훈련을 강행하기로 했다.", "url":"https://www.npr.org/2026/08/28/g-s1-140849/us-south-korea-japan-drill-north-korea"},
+        {"source":"Kyiv Independent / 우크라이나·러시아", "title":"[번역] 러시아, 키이우 외곽 창고 이틀째 드론 공습", "summary":"러시아군이 이틀 연속 키이우 지역 아파트와 창고 단지에 드론 공습을 가해 최소 10명이 숨지고 43명이 다쳤다.", "url":"https://kyivindependent.com/warehouses-targeted-outside-kyiv-in-all-day-drone-attack-as-russian-forces-kill-at-least-10-injure-43-over-past-day-across-ukraine/"},
+        {"source":"NPR / 이스라엘·가자", "title":"[번역] 가자 휴전 책임자 \"대안은 다음 전쟁\"…이스라엘 공습 비판", "summary":"트럼프의 가자 휴전 구상을 이끄는 평화위원회 대표가 이스라엘의 계속되는 공습을 비판하며, 휴전 대안은 새로운 전쟁뿐이라고 경고했다.", "url":"https://www.npr.org/2026/08/27/g-s1-140400/israel-gaza-ceasefire"},
+        {"source":"ABC News / 호주", "title":"[번역] 호주 난민 쿼터 삭감 논란…알바니지 총리 긴급 진화", "summary":"호주 정부 일각에서 난민 수용 규모를 3분의 1가량 줄이는 방안이 알려지며 노동당 내 반발이 커지자, 알바니지 총리가 직접 나서 쿼터를 유지하겠다고 밝혔다.", "url":"https://www.abc.net.au/news/2026-08-27/federal-government-australian-refugee-intake-confusion-anger/107083476"},
+        {"source":"Khaleej Times / 두바이(UAE)", "title":"[번역] UAE, 9월 휘발유·경유 가격 발표", "summary":"UAE가 다음 달 적용될 휘발유·경유 가격을 발표했으며, 국제유가 변동성 속에 소폭 인하 가능성이 거론되고 있다.", "url":"https://www.khaleejtimes.com/business/energy/uae-petrol-diesel-prices-august-2026-announced"},
+        {"source":"CNBC Africa / 콩고(프랑스어권)", "title":"[번역] 치세케디 대통령, 3개월 국민대화 개시…반군은 배제", "summary":"펠릭스 치세케디 콩고 대통령이 정치·안보 위기 해소를 위한 3개월간의 국민대화를 시작했으나, 르완다가 지원하는 M23 등 무장세력은 참여 대상에서 제외했다.", "url":"https://www.cnbcafrica.com/2026/congos-president-calls-for-national-dialogue-to-ease-tensions-rebels-excluded"}
       ]
     }
   }
