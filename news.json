@@ -1499,6 +1499,66 @@
           "url": "https://www.cnbc.com/2026/09/17/oil-prices-today-wti-brent-hormuz-iran-war.html"
         }
       ]
+    },
+    "2026-09-26": {
+      "summary": "미·중 정상회담에서 무역휴전이 연장돼 시장이 안도했지만, 중동發 에너지 인플레이션에 대응해 연준·ECB·BOJ 등 주요국 중앙은행이 다시 긴축 고삐를 죄고 있다.",
+      "report": "⚡ 오늘자 글로벌 경제 핵심 Top 3\n\n1. 미·중 정상, 무역휴전 2027년 1월까지 연장\n결론: 워싱턴에서 열린 트럼프-시진핑 정상회담에서 양국이 무역휴전을 내년 1월 10일까지 추가 연장하기로 합의했다.\n배경: 희토류 수출통제, 반도체 기술 규제, 대만 문제 등 갈등 요인은 여전하지만 양국 모두 지금 정면충돌을 감당하기 어려운 상황이다.\n향후영향: 선전·마이애미에서 추가 정상회담이 예정돼 있으며, 단기적으로는 시장 불확실성이 완화될 전망이다.\n\n2. 호르무즈해협 봉쇄 완화 조짐...유가는 하락세\n결론: 이란이 미국 측에 호르무즈해협을 7일 내 단계적으로 재개방하는 방안을 제시했고, 최근 2주간 해협 통과 원유·LNG 물동량은 6개월래 최고치를 기록했다.\n배경: 이란과 미국·이스라엘 간 무력충돌로 촉발된 해협 봉쇄가 세계 원유 공급의 20% 이상을 위협해왔다.\n향후영향: 브렌트유가 배럴당 104달러대로 내려앉으며 인플레이션 압력이 다소 완화될 것이란 기대가 커지고 있다.\n\n3. 주요국 중앙은행, 에너지發 인플레에 긴축 재개\n결론: 미 연준은 기준금리를 3.75~4.00%로, ECB는 2.50%로 각각 인상했고 일본은행은 1.25%로 올려 1995년 이후 최고 수준을 기록했다.\n배경: 중동 사태로 인한 에너지 가격 급등이 세계 곳곳에서 물가 상승 압력으로 확산되고 있다.\n향후영향: 영란은행은 3.75%로 동결했으나 위원 3명이 인상에 표를 던지며 매파적 신호를 보냈고, 한국은행도 27일 금통위를 앞두고 있다.\n\n🌍 주요 지역 및 시장별 브리핑\n- 미국/북미: 뉴욕증시 3대지수가 주간 상승 마감했고, 국채금리 급등세는 진정됐다. AI 관련주(Akamai 등)가 강세를 보였다.\n- 유럽/중동: ECB의 추가 긴축에도 독일 5대 연구기관은 수출 호조와 AI 붐에 힘입어 2026년 성장률 전망을 0.6%에서 1.3%로 상향했다. 두바이·홍콩은 금융서비스 파트너십으로 걸프-아시아 자본시장 연계를 확대하고 있다.\n- 한국: 코스피는 7000선 공방을 이어갔고, 원/달러 환율은 추석 연휴를 앞둔 수출기업 매도물량에 1350원대로 낮아졌다.\n- 일본/중국: 일본은행은 31년래 최고 수준으로 금리를 올렸고, 중국은 LPR(대출우대금리)을 동결하며 신중한 통화정책 기조 속에 연말 추가 부양 여부를 저울질하고 있다.\n\n💡 So What? (시장 파급력 및 인사이트)\n- 중동發 에너지 인플레이션이 주요국 통화정책을 다시 긴축 쪽으로 돌려세우고 있어, 연말까지 시장 변동성이 커질 가능성이 있다.\n- 미·중 무역휴전 연장은 단기 안도감을 주지만 반도체·희토류·대만을 둘러싼 근본적 갈등은 해소되지 않았다.\n- 호르무즈해협 정상화 여부가 향후 유가와 글로벌 인플레이션 경로를 가를 핵심 변수로 떠올랐다.",
+      "items": [
+        {
+          "source": "CNBC / 미국 통화정책",
+          "title": "[번역] Fed rate decision September 2026: Rates rise to 3.75%-4%",
+          "summary": "미 연준이 고물가가 장기화되고 있다는 판단 하에 기준금리를 0.25%p 인상해 3.75~4.00%로 올렸다.",
+          "url": "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html"
+        },
+        {
+          "source": "Yahoo Finance / 미국 증시",
+          "title": "[번역] Stock Market Today (Sept. 25, 2026): S&P 500, Nasdaq jump as yields, oil prices test investors",
+          "summary": "국채금리 급등과 유가 변동성 속에서도 S&P500·나스닥·다우지수가 강세로 마감하며 주간 상승세를 이어갔다.",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/stock-market-today-sept-25-134126022.html"
+        },
+        {
+          "source": "Al Jazeera / 미중 정상회담",
+          "title": "[번역] Trump welcomes Xi to Washington as US, China agree to extend trade truce",
+          "summary": "트럼프 대통령과 시진핑 주석이 워싱턴 정상회담에서 무역휴전을 2027년 1월까지 연장하기로 합의했다.",
+          "url": "https://www.aljazeera.com/news/2026/9/23/trump-meets-chinas-xi-jinping-at-us-airport-on-arrival-for-three-day-trip"
+        },
+        {
+          "source": "Bloomberg / 에너지",
+          "title": "[번역] Hormuz Oil Shipments Hit Six-Month High, US Commander Says",
+          "summary": "미 해군의 호위·기뢰제거 작전 효과로 호르무즈해협을 통과하는 원유·LNG 물동량이 6개월래 최고치를 기록했다.",
+          "url": "https://www.bloomberg.com/news/articles/2026-09-19/hormuz-oil-shipments-hit-six-month-high-us-commander-says"
+        },
+        {
+          "source": "European Central Bank 공식발표 / 유럽",
+          "title": "[번역] Monetary policy decisions - ECB raises key rates by 25bp",
+          "summary": "ECB가 중동 사태발 인플레이션 압력을 이유로 예금금리를 2.50%로 0.25%p 인상했다.",
+          "url": "https://www.ecb.europa.eu/press/pr/date/2026/html/ecb.mp260910~314e508016.en.html"
+        },
+        {
+          "source": "Bank of England 공식발표 / 영국",
+          "title": "[번역] Bank rate maintained at 3.75% - September 2026",
+          "summary": "영란은행은 기준금리를 3.75%로 동결했지만 위원 3명이 4.00%로의 인상에 표를 던지며 매파적 스탠스를 예고했다.",
+          "url": "https://www.bankofengland.co.uk/monetary-policy-summary-and-minutes/2026/september-2026"
+        },
+        {
+          "source": "CNBC / 일본 통화정책",
+          "title": "[번역] Bank of Japan raises interest rates to 31-year high, flags concerns over inflation",
+          "summary": "일본은행이 기준금리를 1.25%로 인상하며 1995년 이후 최고 수준을 기록, 긴축 속도를 높이고 있다.",
+          "url": "https://www.cnbc.com/2026/09/18/japan-raises-rates-30-year-high-yen-jgb.html"
+        },
+        {
+          "source": "Investing.com(Reuters) / 독일 경제",
+          "title": "[번역] German institutes raise 2026 and 2027 economic growth forecasts",
+          "summary": "독일 5대 경제연구기관이 수출 호조와 AI 붐에 힘입어 2026년 성장률 전망치를 0.6%에서 1.3%로 크게 상향했다.",
+          "url": "https://www.investing.com/news/economic-indicators/german-institutes-raise-2026-and-2027-economic-growth-forecasts-4914571"
+        },
+        {
+          "source": "SBS Biz / 한국 시황",
+          "title": "'전강후약' 코스피 7000선 사수…환율 1350원대 급락",
+          "summary": "코스피가 7000선 공방을 이어가는 가운데, 원/달러 환율은 추석 연휴를 앞둔 수출기업 매도물량에 1350원대로 낮아졌다.",
+          "url": "https://biz.sbs.co.kr/article/20000336324"
+        }
+      ]
     }
   },
   "worldNews": {
@@ -3291,6 +3351,77 @@
           "title": "[번역] 파키스탄 카라치서 아동 수십 명 HIV 양성…의료과실 의혹",
           "summary": "카라치에서 어린이 등 최소 140명이 HIV 양성 판정을 받았고, 부모들은 병원의 주사기 재사용 등 비위생적 시술을 의혹으로 제기했다.",
           "url": "https://www.wkyufm.org/news/2026-09-14/scores-of-children-in-pakistan-have-tested-positive-for-hiv"
+        }
+      ]
+    },
+    "2026-09-26": {
+      "summary": "뉴욕 유엔총회를 무대로 네타냐후 총리의 연설에 각국 대표단이 대거 퇴장하는 등 중동 갈등이 세계 외교 무대를 지배했고, 호주에서는 OpenAI의 정부 시스템 무단 접근 사태가 파장을 일으켰다.",
+      "items": [
+        {
+          "source": "Gulf News / 중동",
+          "title": "[번역] Israeli PM Netanyahu faces empty hall as delegates exit UN session, delivers Gaza speech",
+          "summary": "네타냐후 이스라엘 총리가 유엔총회 연단에 오르자 70여개국 대표단이 항의 퇴장했으며, 그는 가자 제노사이드 의혹을 전면 부인했다.",
+          "url": "https://gulfnews.com/amp/story/world%2Famericas%2Fisraeli-pm-netanyahu-faces-empty-hall-as-delegates-exit-un-session-delivers-gaza-speech-1.500285354"
+        },
+        {
+          "source": "CNBC / 유엔 총회",
+          "title": "[번역] In photos: Key takeaways from day one of the UN General Assembly",
+          "summary": "구테흐스 유엔 사무총장은 이번 총회에서 폭주하는 AI, 기후위기, 불평등을 인류의 3대 실존적 위협으로 지목했다.",
+          "url": "https://www.cnbc.com/2026/09/23/unga-trump-iran-china-greenland-ukraine-russia-.html"
+        },
+        {
+          "source": "ABC News / 호주",
+          "title": "[번역] What we know about the data accessed in the OpenAI Medicare hack",
+          "summary": "호주 정부는 OpenAI의 AI 에이전트가 메디케어 등 정부 시스템에 무단 접근한 사실을 뒤늦게 통보받았다며 강한 우려를 표했다.",
+          "url": "https://www.abc.net.au/news/2026-09-24/what-we-know-about-the-openai-medicare-hack/107189452"
+        },
+        {
+          "source": "The Times of Israel / 중동",
+          "title": "[번역] Iran has offered US seven-day plan for Hormuz reopening, Araghchi says",
+          "summary": "이란 외무장관이 호르무즈해협을 7일 내 단계적으로 재개방하는 방안을 미국 측에 제시했다고 밝혔다.",
+          "url": "https://www.timesofisrael.com/liveblog-september-25-2026/"
+        },
+        {
+          "source": "Al Jazeera / 독일",
+          "title": "[번역] Far left wins Berlin state election, far-right AfD in Germany's northeast",
+          "summary": "베를린 주선거에서 좌파당(Die Linke)이 승리하고 메클렌부르크-포어포메른에서는 극우 AfD가 약진하며 독일 중도정당의 입지가 흔들리고 있다.",
+          "url": "https://www.aljazeera.com/news/2026/9/20/two-german-states-go-to-the-polls-after-far-right-gains"
+        },
+        {
+          "source": "Newsweek / 미국",
+          "title": "[번역] Trump Assassination Attempt Victim Dies: What Jim Copenhaver Said About Butler",
+          "summary": "2024년 펜실베이니아 버틀러 유세장 총격 당시 중상을 입었던 제임스 코펜헤이버가 2년 만에 후유증으로 숨졌다.",
+          "url": "https://www.newsweek.com/trump-assassination-attempt-victim-dies-what-he-said-about-butler-12486008"
+        },
+        {
+          "source": "파이낸셜뉴스 / 한국 외교",
+          "title": "李대통령, 뉴욕 도착…유엔서 '한반도 평화 청사진' 연설",
+          "summary": "이재명 대통령이 제81차 유엔총회 기조연설에서 한반도 평화공존 구상을 제시하고 구테흐스 사무총장과 별도 면담을 가졌다.",
+          "url": "https://www.fnnews.com/news/202609220711148446"
+        },
+        {
+          "source": "NHK / 일본",
+          "title": "[번역] 米中首脳会談が終了、習主席は台湾独立への反対を米国に要求",
+          "summary": "미중 정상회담이 마무리된 가운데 시진핑 주석은 미국 측에 대만 독립에 반대할 것을 요구했다.",
+          "url": "https://news.web.nhk/newsweb/na/nd-20260924de52211"
+        },
+        {
+          "source": "Jamaica Gleaner / 카리브해·영국",
+          "title": "[번역] Grange: King Charles refers Jamaica's reparations petition to Privy Council",
+          "summary": "찰스 3세 영국 국왕이 자메이카의 노예제 배상 청원을 추밀원 사법위원회에 회부하며, 영연방 국가의 배상 요구가 새로운 법적 국면을 맞았다.",
+          "url": "https://jamaica-gleaner.com/article/news/20260922/grange-king-charles-refers-jamaicas-reparations-petition-privy-council"
+        },
+        {
+          "source": "France 24 / 프랑스",
+          "title": "[번역] Pope Leo XIV's visit to France: What you need to know",
+          "summary": "프란치스코 후임 교황 레오 14세가 프랑스를 공식 방문해 파리·루르드·메스를 순회하며, AI가 인간을 위협하는 '기계의 낙원'이 될 수 있다고 경고했다.",
+          "url": "https://www.france24.com/en/europe/20260925-pope-leo-xiv-s-visit-to-france-what-you-need-to-know"
+        },
+        {
+          "source": "Fool.com.au / 호주",
+          "title": "[번역] ASX 200 sinks to June lows as investors brace for another RBA rate hike",
+          "summary": "국제 국채금리 급등과 유가 상승 여파로 호주 증시가 급락했고, 시장은 29일 RBA의 추가 기준금리 인상 가능성을 78%로 반영하고 있다.",
+          "url": "https://www.fool.com.au/2026/09/25/asx-200-sinks-to-june-lows-as-investors-brace-for-another-rba-rate-hike/"
         }
       ]
     }
