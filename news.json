@@ -3359,6 +3359,120 @@
           "url": "https://biz.sbs.co.kr/amp/article/20000344412"
         }
       ]
+    },
+    "2026-11-13": {
+      "summary": "영국이 3년 3개월 만에 기준금리를 인상하고 미 연준도 12월 추가 인상 가능성이 85%에 달하는 등 주요국 중앙은행들이 중동전쟁발 에너지가격 충격에 긴축으로 대응하는 가운데, 구글의 신형 AI칩 공개로 엔비디아 독점 구도에도 균열이 보이기 시작했다.",
+      "report": "⚡ 오늘자 글로벌 경제 핵심 Top 3\n\n1. 영국 BOE, 3년 3개월 만에 기준금리 인상(3.75%→4.00%)\n결론: 영란은행이 11월 5일 통화정책위원 9명 중 8명의 찬성으로 기준금리를 0.25%포인트 올려 4.00%로 결정했다.\n배경: 중동전쟁 여파로 에너지 가격이 치솟으며 9월 소비자물가 상승률이 3.5%까지 오른 점이 배경으로 꼽힌다.\n향후영향: 금리선물시장에서 12월 추가 인상 가능성이 발표 전 20%에서 50%까지 뛰었지만, 총재는 연속 인상의 시작은 아니라고 선을 그었다.\n\n2. 미 연준, 12월 추가 인상 가능성 85%로 급등\n결론: 10월 FOMC 동결 이후 CME 페드워치 기준 12월 0.25%포인트 추가 인상 가능성이 85% 안팎까지 올라섰다.\n배경: 인플레이션이 목표치를 웃도는 가운데 9월에도 이미 한 차례 인상이 있어 긴축 기조가 이어지는 모습이다.\n향후영향: 영국과 미국 모두 '인하'가 아닌 '인상' 국면에 들어서며 신흥국 자금 이탈과 AI주 밸류에이션 부담이 커질 수 있다.\n\n3. 구글, 차세대 TPU 2종 공개…엔비디아 독점구도에 균열\n결론: 구글이 11월 9일 8세대 TPU 신제품 'TPU 8tx'와 'TPU 8i Max'를 공개하며 엔비디아에 대한 도전을 본격화했다.\n배경: 8i Max는 이전 세대보다 연산·SRAM·HBM 대역폭이 2배로 늘었고, 구글클라우드를 통한 '선임대 후구매' 방식으로 고객을 끌어들이고 있다.\n향후영향: 엔비디아의 데이터센터 AI칩 점유율이 여전히 80~90%대로 압도적이지만, 소프트웨어 생태계 전환 비용이 관건이 될 전망이다.\n\n🌍 주요 지역 및 시장별 브리핑\n- 미국/북미: 연준의 12월 추가 인상 가능성이 85%로 치솟으며 금리 경로 불확실성이 커졌고, 중간선거에서 민주당이 상·하원을 모두 탈환해 분점정부가 들어서며 예산·통상정책에도 변수가 늘었다.\n- 유럽/중동: 영란은행이 3년 3개월 만에 금리를 올렸고, OPEC+ 핵심 7개국은 12월 생산목표를 9월 수준(약 3101만b/d)으로 동결했으며, 독일은 라인강 저수위와 중동전쟁 여파 속에서도 3분기 0.2% 성장했다.\n- 한국: 3분기 수출이 반도체 호황에 힘입어 전년 동기 대비 72.3% 급증한 3186억달러로 역대 최대를 기록했지만, 상위 10대 기업 수출 집중도가 60.9%까지 치솟아 양극화 우려도 커졌다.\n- 일본/중국: 일본은행은 기준금리를 1.25%로 유지했지만 의사록에서 조기 인상론이 재부각됐고, 중국은 미국 기업 11곳에 대한 신뢰할 수 없는 기업 명단과 16곳에 대한 수출통제 조치를 2027년 1월 10일까지 유예해 관세휴전을 뒷받침했다.\n\n💡 So What? (시장 파급력 및 인사이트)\n- 영국과 미국 중앙은행이 동시에 '인상' 쪽으로 기울면서 연말 글로벌 자산시장의 최대 변수로 금리 경로가 다시 떠올랐다.\n- 반도체 수출 집중도 심화는 한국 경제의 성장세와 양극화, 대외 리스크(미중 갈등·AI주 조정) 노출도를 동시에 키우고 있다.\n- 구글의 TPU 공세는 당장 엔비디아의 독점을 흔들기보다, AI 인프라 비용 구조 자체를 바꾸는 장기 변수로 지켜볼 필요가 있다.",
+      "items": [
+        {
+          "source": "babypips / 영국(BOE)",
+          "title": "[번역] 영란은행, 3년 3개월 만에 기준금리 0.25%p 인상…4.00%로",
+          "summary": "영란은행이 통화정책위원 9명 중 8명의 찬성으로 기준금리를 4.00%로 올렸으며, 중동전쟁에 따른 에너지가격 상승이 배경으로 꼽힌다.",
+          "url": "https://www.babypips.com/analysis/headline-boe-hiked-rates-why-gbp-just-shrugged-2026-11-06"
+        },
+        {
+          "source": "Norada Real Estate / 미국(연준)",
+          "title": "[번역] 12월 연준 추가 인상 가능성 85%로 급등",
+          "summary": "10월 FOMC 동결 이후 CME 페드워치 기준 12월 금리 인상 확률이 85% 안팎까지 치솟았다.",
+          "url": "https://www.noradarealestate.com/blog/interest-rates-hike-odds-december-2026-jump-85-after-feds-recent-decision/"
+        },
+        {
+          "source": "The Edge Malaysia / 미중 통상",
+          "title": "[번역] 중국, 美기업 11곳 '신뢰할 수 없는 기업' 명단·16곳 수출통제 유예 2027년 1월까지 연장",
+          "summary": "중국 상무부가 미국 기업에 대한 제재성 조치 유예를 2027년 1월 10일까지 연장하며 관세휴전을 뒷받침했다.",
+          "url": "https://theedgemalaysia.com/node/825024"
+        },
+        {
+          "source": "eWeek / 미국 반도체(AI)",
+          "title": "[번역] 구글, 차세대 TPU 'TPU 8tx'·'TPU 8i Max' 공개…엔비디아에 도전장",
+          "summary": "구글이 연산 성능과 메모리 대역폭을 크게 끌어올린 8세대 TPU 신제품을 선보이며 엔비디아 중심의 AI 반도체 시장에 균열을 내고 있다.",
+          "url": "https://www.eweek.com/news/google-cloud-splits-ai-tpus-challenge-nvidia/"
+        },
+        {
+          "source": "World Oil / OPEC+(에너지)",
+          "title": "[번역] OPEC+ 핵심 7개국, 12월 생산목표 동결",
+          "summary": "사우디·러시아 등 OPEC+ 핵심 7개국이 중동 공급 차질 속에서도 12월 생산목표를 9월 수준으로 유지하기로 했다.",
+          "url": "https://worldoil.com/news/2026/11/1/opec-subgroup-keeps-oil-production-quotas-unchanged-for-december/"
+        },
+        {
+          "source": "InvestingLive / 독일 경제",
+          "title": "[번역] 독일 3분기 GDP 0.2% 성장…예상치 상회",
+          "summary": "독일 경제가 라인강 저수위와 중동전쟁 여파라는 악재 속에도 3분기 0.2% 성장하며 시장 예상치(0.1%)를 웃돌았다.",
+          "url": "https://investinglive.com/news/germany-q3-preliminary-gdp-0-2-vs-0-1-q-q-expected/"
+        },
+        {
+          "source": "Morningstar(Dow Jones) / 일본 경제",
+          "title": "[번역] 일본은행 10월 의사록, 조기 추가 인상론 재부각",
+          "summary": "일본은행이 기준금리를 1.25%로 유지했지만 의사록 요지에서 일부 위원이 조기 인상을 주장한 것으로 나타나 12월 인상 기대가 커졌다.",
+          "url": "https://morningstar.com/news/dow-jones/2026110914427/boj-opinion-summary-shows-board-remains-in-favor-of-more-tightening"
+        },
+        {
+          "source": "데일리안 / 한국 수출",
+          "title": "3분기 수출 역대 최대…반도체 호황에 상위 10대 기업 집중도 60.9%",
+          "summary": "3분기 수출이 반도체 슈퍼사이클에 힘입어 전년 동기보다 72.3% 늘어난 3186억달러로 역대 최대를 기록했지만, 대기업 쏠림 현상도 심화했다.",
+          "url": "https://www.dailian.co.kr/news/view/1570992/"
+        }
+      ]
+    },
+    "2026-11-14": {
+      "summary": "엔비디아 CEO 전격 사퇴와 연준의 12월 추가 금리인상 베팅이 겹치며 글로벌 금융시장 변동성이 커졌고, 엔화 약세와 비트코인 약세 등 자산시장 불안이 이어졌다.",
+      "report": "⚡ 오늘자 글로벌 경제 핵심 Top 3\n\n1. 엔비디아 CEO 전격 사퇴, AI 반도체 시장 리더십 공백\n결론: 젠슨 황 엔비디아 창업자 겸 CEO가 사생활 스캔들 파문 속에 이사회 압박으로 사퇴했고, 콜레트 크레스 CFO가 임시 CEO를 맡았다.\n배경: 이사회는 11일 사임을 수용했으며 하비 존스를 신설된 이사회 의장으로 선임했다. 미 하원 3개 상임위는 황을 12월 1일 비공개 청문회에 소환했다.\n향후영향: 11월 17일 발표될 3분기 실적과 후임 CEO 인선 과정이 AI 반도체 밸류체인 전반의 단기 불확실성 요인으로 작용할 전망이다.\n\n2. 연준 12월 FOMC, '금리 인상' 베팅 급증\n결론: 시장에서 12월 9일 FOMC 회의 때 기준금리가 오히려 오를 가능성에 베팅하는 움직임이 급격히 커졌다.\n배경: 금리선물 시장에서 25bp 인상 가능성이 90%대까지 치솟으며, 기존의 동결·인하 전망을 뒤집었다.\n향후영향: 달러 강세와 신흥국·아시아 통화 약세 압력이 커지고 있으며, 엔화·원화 환율에도 부담으로 작용하고 있다.\n\n3. 미중 무역휴전 연장, 희토류 수출통제는 불확실\n결론: 미국과 중국이 관세 및 희토류를 둘러싼 2개월짜리 무역 휴전을 내년 1월 10일까지 연장하는 데 잠정 합의했다.\n배경: 중국 상무부는 대미 관세 면제 품목(178개) 연장과 항만비 유예 조치를 발표했지만, 희토류 수출통제 재개 여부는 명시하지 않아 해석이 엇갈린다.\n향후영향: 공급망 불확실성이 이어지며 관련 희토류·배터리 소재 기업들의 주가 변동성이 계속될 것으로 보인다.\n\n🌍 주요 지역 및 시장별 브리핑\n- 미국/북미: 엔비디아 리더십 교체와 연준 금리 불확실성이 뉴욕 증시 변동성을 키우고 있다.\n- 유럽/중동: 브렌트유는 10월 고점 대비 20% 이상 하락한 뒤 걸프 지역 공급 불안 재부각으로 소폭 반등했다. 독일은 11월 소비자신뢰지수가 전년보다 크게 악화된 반면 정부는 연간 성장률 전망을 1.3%로 상향했다.\n- 한국: 코스피는 장중 5500선을 터치했지만 외국인 매도 확대로 0.98% 하락한 5290.53으로 마감했고, 원/달러 환율은 1335원 안팎에서 움직였다.\n- 일본/중국: 엔화가 달러당 160엔대까지 떨어져 약 두 달 반 만의 최고치(엔화 약세)를 기록했고, 일본 재무당국은 \"속도가 너무 빠르다\"며 구두개입성 경고를 내놨다.\n\n💡 So What? (시장 파급력 및 인사이트)\n- 엔비디아 리더십 공백은 AI 반도체 공급망 전반에 단기 불확실성을 더하는 요인이다.\n- 연준의 추가 인상 가능성은 달러 강세를 자극해 신흥국·아시아 통화와 증시에 부담을 줄 수 있다.\n- 미중 무역휴전 연장은 단기 안도 요인이지만 희토류 이슈의 근본적 해결로 보기는 어렵다.",
+      "items": [
+        {
+          "source": "CNBC / 미국·기업",
+          "title": "[번역] 엔비디아 CEO 젠슨 황, 스캔들 파문에 전격 사퇴…임시 CEO는 CFO 크레스",
+          "summary": "젠슨 황이 사생활 스캔들로 이사회 압박 속에 사퇴했고, 콜레트 크레스 CFO가 임시 CEO를 맡으며 후임 인선이 시작됐다.",
+          "url": "https://www.cnbc.com/2026/11/12/nvidia-jensen-huang-ceo-live-updates.html"
+        },
+        {
+          "source": "centralbank.watch / 미국·통화정책",
+          "title": "연준 12월 FOMC, 금리 인상 가능성 90%대로 급등",
+          "summary": "금리선물 시장에서 12월 기준금리 인상 가능성이 90%대로 치솟아 기존의 동결·인하 전망이 뒤집히고 있다.",
+          "url": "https://centralbank.watch/federal-reserve/"
+        },
+        {
+          "source": "Thompson Hine / 미중 무역",
+          "title": "[번역] 중국, 희토류 수출통제 유예 연장…미국도 관세 면제 연장",
+          "summary": "미중 양국이 관세·희토류를 둘러싼 무역휴전을 내년 1월 10일까지 연장했지만, 희토류 수출통제 재개 여부는 명확히 밝히지 않았다.",
+          "url": "https://www.thompsonhinesmartrade.com/2026/11/china-extends-suspension-of-rare-earth-export-controls/"
+        },
+        {
+          "source": "아시아경제 / 한국 증시",
+          "title": "코스피, 장중 5500 터치 후 외국인 매도에 0.98% 하락 마감",
+          "summary": "코스피가 외국인 순매도 확대로 52.20포인트(0.98%) 내린 5290.53에 마감했고, 코스닥은 0.45% 상승했다.",
+          "url": "https://view.asiae.co.kr/article/2026111315344786155"
+        },
+        {
+          "source": "한국경제(도쿄나우) / 일본 환율",
+          "title": "엔화, 달러당 160엔대 재진입…두 달 반 만의 최고치",
+          "summary": "엔·달러 환율이 160엔대로 올라 엔화 약세가 가속화됐고, 일본 재무당국은 지나치게 빠른 속도라며 구두개입성 경고를 내놨다.",
+          "url": "https://www.hankyung.com/article/202611134107i"
+        },
+        {
+          "source": "뉴시스(네이트) / 독일 경제",
+          "title": "독일 11월 소비자신뢰지수 -30.8, 전년보다 악화",
+          "summary": "독일 GfK 소비자신뢰지수가 전년 동월보다 크게 낮아져 물가·가계재정 우려가 소비심리 회복을 제약하고 있다.",
+          "url": "https://m.news.nate.com/view/20261028n41955"
+        },
+        {
+          "source": "Cyprus Mail / 중동·원자재",
+          "title": "[번역] 걸프 산유국, 이란전쟁 장기화 속 원유 수출 비용 부담 커져",
+          "summary": "브렌트유가 10월 고점 대비 20% 이상 하락했다가 걸프 지역 공급 불안 재부각으로 반등하는 등 중동 리스크가 유가를 계속 흔들고 있다.",
+          "url": "https://cyprus-mail.com/2026/11/11/gulf-oil-faces-costly-new-reality-as-iran-war-drags-on"
+        },
+        {
+          "source": "FinanceFeeds / 가상자산",
+          "title": "[번역] 비트코인, ETF 자금 유출 지속 속 추가 하락",
+          "summary": "비트코인 현물 ETF에서 닷새 연속 자금이 빠져나가며 비트코인 가격이 10월 저점을 밑도는 약세를 이어가고 있다.",
+          "url": "https://financefeeds.com/bitcoin-price-etf-outflows-five-sessions-ppi/"
+        },
+        {
+          "source": "The Nightly / 호주 경제",
+          "title": "[번역] 호주 재무장관, 'GDP 역성장 없다' 자신…정치적 압박은 가중",
+          "summary": "짐 챌머스 호주 재무장관이 차기 총선 전까지 역성장은 없을 것이라 밝혔지만, 여당 내부 압박과 에너지 정책 갈등이 계속되고 있다.",
+          "url": "https://thenightly.com.au/politics/australian-politics-live-updates-albanese-flies-to-cop31-in-turkey-chalmers-restricts-treasury-access-c-23138492"
+        }
+      ]
     }
   },
   "worldNews": {
@@ -7152,6 +7266,136 @@
           "title": "'종전 요구' 총공세에 트럼프 진퇴양난…증시 폭락",
           "summary": "중간선거 이후 이란전 종결을 요구하는 정치적 압박이 커지며 트럼프 대통령이 곤경에 빠졌고, 이로 인해 미국 증시가 폭락했다고 보도했다.",
           "url": "https://imnews.imbc.com/replay/2026/nwtoday/article/6863571_37012.html"
+        }
+      ]
+    },
+    "2026-11-13": {
+      "summary": "이란전쟁을 둘러싼 외교전이 호르무즈 해협 안전 문제로 이어지는 가운데, 미국 중간선거 이후 분점정부, 프랑스 예산안 좌초, 일본 정치자금 논란 등 주요국의 정치 불안정성도 함께 부각됐다.",
+      "items": [
+        {
+          "source": "Al Jazeera / 중동(이란)",
+          "title": "[번역] 트럼프 \"전쟁은 사실상 끝났다\"…이란은 항복 요구에 반발",
+          "summary": "트럼프 대통령이 카타르 총리를 만난 뒤 이란과의 긍정적 모멘텀을 언급하며 전쟁이 사실상 끝났다고 말했지만, 이란 측은 이를 항복 요구라며 반발하고 있다.",
+          "url": "https://www.aljazeera.com/news/liveblog/2026/11/9/iran-war-live-trump-says-war-effectively-over-iran-demands-surrender"
+        },
+        {
+          "source": "Oman Observer / 중동(호르무즈)",
+          "title": "[번역] 호르무즈 해협서 기뢰로 유조선 4척 파손",
+          "summary": "호르무즈 해협을 지나던 유조선 4척이 기뢰 공격으로 파손되는 등 전쟁 발발 이후 선박 피격이 반복되고 있다.",
+          "url": "https://www.omanobserver.om/article/1199087/world/region/four-tankers-destroyed-by-mines-in-strait-of-hormuz"
+        },
+        {
+          "source": "New Kerala(오만통신) / 중동",
+          "title": "[번역] 오만·이란, 호르무즈 해상안보 항구적 협력 방안 논의",
+          "summary": "오만과 이란이 호르무즈 해협의 항구적인 해상안보 체계 구축을 위한 협의를 진행했다고 오만통신이 전했다.",
+          "url": "https://www.newkerala.com/news/a/oman-iran-call-lasting-maritime-security-arrangements-end-967.htm"
+        },
+        {
+          "source": "Iran International / 중동(이란)",
+          "title": "[번역] 이란 에너지 노동자들, 저임금·열악한 근무환경에 항의 시위",
+          "summary": "이란 각지의 에너지 노동자들이 낮은 임금과 열악한 근무 조건에 항의하는 시위를 벌였다.",
+          "url": "https://www.iranintl.news/en/202511113999"
+        },
+        {
+          "source": "Fox13 / 미국 정치",
+          "title": "[번역] 민주당, 중간선거서 상·하원 모두 탈환…분점정부 예고",
+          "summary": "11월 3일 중간선거에서 민주당이 상원과 하원을 모두 가져가면서 트럼프 대통령 임기 후반 2년이 분점정부 체제로 전환됐다.",
+          "url": "https://www.fox13news.com/news/democrats-win-senate-election-2026.amp"
+        },
+        {
+          "source": "Asia News Network(요미우리 계열) / 일본 정치",
+          "title": "[번역] 다카이치 내각, 정치자금 논란에 지지율 57%로 하락",
+          "summary": "다카이치 총리가 정치자금 문제로 사과한 데 이어 예산위원회에서 취임 후 첫 전면 공방을 치렀고, 요미우리 여론조사에서 내각 지지율은 57%로 나타났다.",
+          "url": "https://asianews.network/?p=309210"
+        },
+        {
+          "source": "SBS Biz / 한국 안보·외교",
+          "title": "청해부대 임무구역, 호르무즈 인근까지 확대…국회 동의 절차 남아",
+          "summary": "정부가 국무회의에서 청해부대 임무구역을 오만 남부 해역까지 확대하는 안건을 의결해 국회 동의 절차를 밟게 됐다.",
+          "url": "https://biz.sbs.co.kr/amp/article/20000344412"
+        },
+        {
+          "source": "LCP / 프랑스 정치",
+          "title": "[번역] 프랑스 하원, 2027년 예산안 세입 부분 전원 부결",
+          "summary": "프랑스 하원이 2027년 예산안 중 세입 부분을 만장일치로 부결시키면서 법안은 지출 부분 심의 없이 상원으로 넘어가게 됐다.",
+          "url": "https://lcp.fr/actualites/budget-2027-l-assemblee-rejette-a-l-unanimite-la-partie-recettes-le-projet-de-loi-de"
+        },
+        {
+          "source": "MNI Markets / 동남아시아",
+          "title": "[번역] 말레이시아, 캄보디아-태국 휴전 중단 이후 협상 재개 모색",
+          "summary": "캄보디아와 태국 간 휴전이 중단된 가운데 말레이시아가 중재국으로서 대화 재개를 추진하고 있다.",
+          "url": "https://www.mnimarkets.com/articles/malaysia-seeks-to-restart-cambodia-talks-after-ceasefire-suspended-1762860504866"
+        }
+      ]
+    },
+    "2026-11-14": {
+      "summary": "우크라이나 평화협상이 아부다비에서 재개됐지만 성과는 제한적이었고, 백악관 비서실장 교체와 유럽 전역의 항공 폭탄위협이 이어지는 가운데 한국은 여권 내홍과 대법원장 탄핵 논란으로 어수선했다.",
+      "items": [
+        {
+          "source": "CBS News / 국제·외교",
+          "title": "[번역] 미·러·우크라이나, 9개월 만에 아부다비서 평화협상 재개…성과는 제한적",
+          "summary": "미국 중재로 러시아-우크라이나 3자 회담이 아부다비에서 약 9개월 만에 재개됐으나 포로 교환 등 인도적 의제 외에 영토·안전보장 등 핵심 쟁점은 좀처럼 좁혀지지 않았다.",
+          "url": "https://www.cbsnews.com/news/us-russia-ukraine-war-talks-peace-abu-dhabi-deal/"
+        },
+        {
+          "source": "NPR / 미국 정치",
+          "title": "[번역] 트럼프, 백악관 비서실장에 스티븐 밀러 임명…와일스는 퇴장",
+          "summary": "중간선거 패배에 분노한 트럼프 대통령이 수지 와일스 비서실장을 경질하고 강경파 스티븐 밀러를 새 비서실장으로 임명했다.",
+          "url": "https://www.npr.org/2026/11/06/nx-s1-6032795/stephen-miller-replace-susie-wiles-trumps-chief-of-staff"
+        },
+        {
+          "source": "Al Jazeera / 유럽 안보",
+          "title": "[번역] 유럽 전역 항공편에 잇따른 허위 폭탄위협…배후는 불명",
+          "summary": "11월 초 유럽 각국 항공편 수십 편이 연쇄적인 허위 폭탄위협으로 차질을 빚었으며, 폭발물은 발견되지 않았고 배후도 확인되지 않았다.",
+          "url": "https://aljazeera.com/news/2026/11/4/bomb-threats-disrupt-flights-across-europe-no-explosive-devices-found"
+        },
+        {
+          "source": "AGBI / 중동",
+          "title": "[번역] 후티 반군, 사우디 표적 공격 재개…호르무즈 해협 긴장 지속",
+          "summary": "후티 반군의 사우디 표적 공격과 호르무즈 해협 인근 긴장이 겹치며 걸프 지역 에너지 공급 우려가 다시 고개를 들었다.",
+          "url": "https://www.agbi.com/oil-and-gas/2026/11/renewed-threats-to-gulf-energy-supplies-push-oil-prices-up/"
+        },
+        {
+          "source": "Censor.NET(獨 외무장관 발언 인용) / 유럽·식량안보",
+          "title": "[번역] 독일 외무장관, 흑해 항구 공격이 기아 위기 부를 수 있다 경고",
+          "summary": "요한 바데풀 독일 외무장관은 러시아의 흑해 항구 공격이 곡물 수출을 막아 기아 위기를 부를 수 있다고 경고했다.",
+          "url": "https://censor.net/en/news/4027213/wadephul-warns-russian-port-attacks-threaten-ukraine-s-harvest"
+        },
+        {
+          "source": "Euronews / 유럽",
+          "title": "[번역] 유럽 15개국서 'AI 데이터센터 모라토리엄' 요구 시위",
+          "summary": "프랑스 등 유럽 15개국 시민단체 100여곳이 전력 소비가 급증하는 대형 데이터센터 신규 건설을 동결하라며 동시다발 시위를 벌였다.",
+          "url": "https://www.euronews.com/2026/11/05/protesters-across-europe-to-call-for-freeze-on-energy-hungry-data-centres"
+        },
+        {
+          "source": "The Nightly / 호주 정치",
+          "title": "[번역] 호주 총리, COP31 참석 위해 터키行…국내서는 재무장관 압박",
+          "summary": "앤서니 앨버니지 호주 총리가 튀르키예 COP31 참석을 위해 출국한 사이, 여당 내에서는 재무장관의 예산 운영에 대한 견제 움직임이 불거졌다.",
+          "url": "https://thenightly.com.au/politics/australian-politics-live-updates-albanese-flies-to-cop31-in-turkey-chalmers-restricts-treasury-access-c-23138492"
+        },
+        {
+          "source": "오마이뉴스 / 한국 정치",
+          "title": "이재명 대통령 국정지지율 39%…'조작기소 특검' 찬성 44%",
+          "summary": "한국갤럽 11월 2주차 조사에서 이재명 대통령 긍정평가는 전주보다 2%포인트 내린 39%, 부정평가는 50%로 나타났다.",
+          "url": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003284676"
+        },
+        {
+          "source": "MBC / 한국 정치",
+          "title": "더불어민주당 최고위 내홍 표출…친청계 \"명패 치우기\"에 반발 회견",
+          "summary": "더불어민주당 최고위원회의에 불참한 친청계 최고위원들의 명패가 치워지는 일이 벌어졌고, 이들은 따로 기자회견을 열어 당 지도부의 윤리감찰 방침에 반발했다.",
+          "url": "https://imnews.imbc.com/news/2026/politics/article/6865410_36911.html"
+        },
+        {
+          "source": "연합뉴스 계열 / 한국 정치·사법",
+          "title": "여당, 조희대 대법원장 탄핵 추진 공식화…헌재 심리 절차 주목",
+          "summary": "더불어민주당이 조희대 대법원장 탄핵소추를 공식 추진하기로 하면서, 가결 시 헌법재판소 심리 절차와 권한정지 여부가 쟁점으로 떠올랐다.",
+          "url": "https://www.koreancenter.or.kr/news/articleView.html?idxno=1426179"
+        },
+        {
+          "source": "Washington Post / 미국·기업 스캔들",
+          "title": "[번역] 엔비디아 창업자 젠슨 황, '중국 스파이 의혹' 불륜 파문으로 사퇴",
+          "summary": "젠슨 황 엔비디아 창업자가 복수의 불륜 사실을 인정했고, 그중 한 명이 중국 스파이로 의심받으면서 이사회가 그의 거취를 논의한 끝에 사퇴로 이어졌다.",
+          "url": "https://www.washingtonpost.com/technology/2026/11/12/nvidia-board-weighs-jensen-huangs-future-after-affair-with-allege-chinese-spy/"
         }
       ]
     }
